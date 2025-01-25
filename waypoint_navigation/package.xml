@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>waypoint_navigation</name>
+  <version>0.0.1</version>
+  <description>Waypoint Navigation package for drone control</description>
+
+  <!-- Maintainer information -->
+  <maintainer email="s.prakshit2004@gmail.com">Prakshit Suthar</maintainer>
+
+  <!-- License -->
+  <license>Apache License 2.0</license>
+
+  <!-- Dependencies for building and running -->
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>action_msgs</build_depend>
+  <build_depend>std_srvs</build_depend>
+
+  <build_depend>rosidl_default_generators</build_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+  <exec_depend>action_msgs</exec_depend>
+  <exec_depend>std_srvs</exec_depend>
+
+  <exec_depend>rclpy</exec_depend>
+  <!-- Test dependencies -->
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_cmake_pytest</test_depend>
+  <member_of_group>rosidl_interface_packages</member_of_group>
+
+  <!-- Export section -->
+  <export>
+    <build_type>ament_cmake</build_type>
+    <member_of_group>ros2</member_of_group>
+    <member_of_group>rosidl_interface_packages</member_of_group>
+  </export>
+</package>

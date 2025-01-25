@@ -1,0 +1,34 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/utkarsh/pico_ws/install/whycon/include/**",
+        "/home/utkarsh/pico_ws/install/waypoint_navigation/include/**",
+        "/home/utkarsh/pico_ws/install/swift_msgs/include/**",
+        "/home/utkarsh/pico_ws/install/rotors_control/include/**",
+        "/home/utkarsh/pico_ws/install/pid_msg/include/**",
+        "/home/utkarsh/pico_ws/install/mav_system_msgs/include/**",
+        "/home/utkarsh/pico_ws/install/mav_state_machine_msgs/include/**",
+        "/home/utkarsh/pico_ws/install/mav_planning_msgs/include/**",
+        "/home/utkarsh/pico_ws/install/mav_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/utkarsh/pico_ws/src/mav_comm/mav_msgs/include/**",
+        "/home/utkarsh/pico_ws/src/mav_comm/mav_planning_msgs/include/**",
+        "/home/utkarsh/pico_ws/src/rotors_simulator/rotors_control/include/**",
+        "/home/utkarsh/pico_ws/src/rotors_simulator/rotors_swift_interface/include/**",
+        "/home/utkarsh/pico_ws/src/whycon/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
