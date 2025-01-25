@@ -1,0 +1,7 @@
+{
+  "package_name": "pid_msg",
+  "non_idl_tuples": [
+    "/home/utkarsh/pico_ws/src/pid_tune/pid_msg:msg/PIDTune.msg",
+    "/home/utkarsh/pico_ws/src/pid_tune/pid_msg:msg/PIDError.msg"
+  ]
+}

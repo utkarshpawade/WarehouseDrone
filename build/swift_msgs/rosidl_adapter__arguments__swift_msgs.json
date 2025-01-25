@@ -1,0 +1,6 @@
+{
+  "package_name": "swift_msgs",
+  "non_idl_tuples": [
+    "/home/utkarsh/pico_ws/src/rotors_simulator/swift_msgs:msg/SwiftMsgs.msg"
+  ]
+}

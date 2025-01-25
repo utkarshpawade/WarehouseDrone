@@ -1,0 +1,21 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/waypoint_navigation__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/waypoint_navigation/action/detail/nav_to_waypoint__type_support_c.cpp.o"
+  "CMakeFiles/waypoint_navigation__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/waypoint_navigation/action/detail/nav_to_waypoint__type_support_c.cpp.o.d"
+  "CMakeFiles/waypoint_navigation__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/waypoint_navigation/srv/detail/get_path__type_support_c.cpp.o"
+  "CMakeFiles/waypoint_navigation__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/waypoint_navigation/srv/detail/get_path__type_support_c.cpp.o.d"
+  "CMakeFiles/waypoint_navigation__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/waypoint_navigation/srv/detail/get_waypoints__type_support_c.cpp.o"
+  "CMakeFiles/waypoint_navigation__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/waypoint_navigation/srv/detail/get_waypoints__type_support_c.cpp.o.d"
+  "libwaypoint_navigation__rosidl_typesupport_fastrtps_c.pdb"
+  "libwaypoint_navigation__rosidl_typesupport_fastrtps_c.so"
+  "rosidl_typesupport_fastrtps_c/waypoint_navigation/action/detail/nav_to_waypoint__rosidl_typesupport_fastrtps_c.h"
+  "rosidl_typesupport_fastrtps_c/waypoint_navigation/action/detail/nav_to_waypoint__type_support_c.cpp"
+  "rosidl_typesupport_fastrtps_c/waypoint_navigation/srv/detail/get_path__rosidl_typesupport_fastrtps_c.h"
+  "rosidl_typesupport_fastrtps_c/waypoint_navigation/srv/detail/get_path__type_support_c.cpp"
+  "rosidl_typesupport_fastrtps_c/waypoint_navigation/srv/detail/get_waypoints__rosidl_typesupport_fastrtps_c.h"
+  "rosidl_typesupport_fastrtps_c/waypoint_navigation/srv/detail/get_waypoints__type_support_c.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/waypoint_navigation__rosidl_typesupport_fastrtps_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

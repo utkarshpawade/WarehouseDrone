@@ -1,0 +1,17 @@
+{
+  "package_name": "mav_planning_msgs",
+  "non_idl_tuples": [
+    "/home/utkarsh/pico_ws/src/mav_comm/mav_planning_msgs:msg/Point2D.msg",
+    "/home/utkarsh/pico_ws/src/mav_comm/mav_planning_msgs:msg/PointCloudWithPose.msg",
+    "/home/utkarsh/pico_ws/src/mav_comm/mav_planning_msgs:msg/Polygon2D.msg",
+    "/home/utkarsh/pico_ws/src/mav_comm/mav_planning_msgs:msg/PolygonWithHoles.msg",
+    "/home/utkarsh/pico_ws/src/mav_comm/mav_planning_msgs:msg/PolygonWithHolesStamped.msg",
+    "/home/utkarsh/pico_ws/src/mav_comm/mav_planning_msgs:msg/PolynomialSegment.msg",
+    "/home/utkarsh/pico_ws/src/mav_comm/mav_planning_msgs:msg/PolynomialSegment4D.msg",
+    "/home/utkarsh/pico_ws/src/mav_comm/mav_planning_msgs:msg/PolynomialTrajectory.msg",
+    "/home/utkarsh/pico_ws/src/mav_comm/mav_planning_msgs:msg/PolynomialTrajectory4D.msg",
+    "/home/utkarsh/pico_ws/src/mav_comm/mav_planning_msgs:srv/PlannerService.srv",
+    "/home/utkarsh/pico_ws/src/mav_comm/mav_planning_msgs:srv/PolygonService.srv",
+    "/home/utkarsh/pico_ws/src/mav_comm/mav_planning_msgs:srv/ChangeNameService.srv"
+  ]
+}

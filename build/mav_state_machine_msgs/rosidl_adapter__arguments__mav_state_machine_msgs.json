@@ -1,0 +1,7 @@
+{
+  "package_name": "mav_state_machine_msgs",
+  "non_idl_tuples": [
+    "/home/utkarsh/pico_ws/src/mav_comm/mav_state_machine_msgs:msg/StartStopTask.msg",
+    "/home/utkarsh/pico_ws/src/mav_comm/mav_state_machine_msgs:srv/RunTaskService.srv"
+  ]
+}

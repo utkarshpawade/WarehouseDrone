@@ -1,0 +1,24 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from waypoint_navigation/srv/GetWaypoints.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/PoseArray.idl"
+
+module waypoint_navigation {
+  module srv {
+    @verbatim (language="comment", text=
+      "Request Definition" "\n"
+      "The request contains the waypoint coordinates" "\n"
+      "float64 x   # X coordinate of the waypoint" "\n"
+      "float64 y   # Y coordinate of the waypoint" "\n"
+      "float64 z   # Z coordinate of the waypoint ")
+    struct GetWaypoints_Request {
+      boolean get_waypoints;
+    };
+    struct GetWaypoints_Response {
+      @verbatim (language="comment", text=
+        "Response contains a PoseArray of waypoints")
+      geometry_msgs::msg::PoseArray waypoints;
+    };
+  };
+};

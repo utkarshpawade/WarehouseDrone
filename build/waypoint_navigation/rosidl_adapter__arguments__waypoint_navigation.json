@@ -1,0 +1,8 @@
+{
+  "package_name": "waypoint_navigation",
+  "non_idl_tuples": [
+    "/home/utkarsh/pico_ws/src/waypoint_navigation:action/NavToWaypoint.action",
+    "/home/utkarsh/pico_ws/src/waypoint_navigation:srv/GetWaypoints.srv",
+    "/home/utkarsh/pico_ws/src/waypoint_navigation:srv/GetPath.srv"
+  ]
+}

@@ -1,0 +1,4 @@
+source;share/swift_pico/local_setup.bash
+source;share/swift_pico/local_setup.dsv
+source;share/swift_pico/local_setup.sh
+source;share/swift_pico/local_setup.zsh

@@ -1,0 +1,26 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from waypoint_navigation/srv/GetPath.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Pose.idl"
+#include "geometry_msgs/msg/PoseArray.idl"
+
+module waypoint_navigation {
+  module srv {
+    @verbatim (language="comment", text=
+      "Request part")
+    struct GetPath_Request {
+      geometry_msgs::msg::Pose start_point;
+
+      geometry_msgs::msg::Pose end_point;
+    };
+    @verbatim (language="comment", text=
+      "Response part" "\n"
+      "List of Pose points representing the path")
+    struct GetPath_Response {
+      geometry_msgs::msg::PoseArray path;
+
+      boolean is_on_first_path;
+    };
+  };
+};

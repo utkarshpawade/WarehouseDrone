@@ -1,0 +1,16 @@
+/home/utkarsh/pico_ws/install/rotors_swift_interface/lib/rotors_swift_interface/rotors_swift_interface
+/home/utkarsh/pico_ws/install/rotors_swift_interface/share/ament_index/resource_index/package_run_dependencies/rotors_swift_interface
+/home/utkarsh/pico_ws/install/rotors_swift_interface/share/ament_index/resource_index/parent_prefix_path/rotors_swift_interface
+/home/utkarsh/pico_ws/install/rotors_swift_interface/share/rotors_swift_interface/environment/ament_prefix_path.sh
+/home/utkarsh/pico_ws/install/rotors_swift_interface/share/rotors_swift_interface/environment/ament_prefix_path.dsv
+/home/utkarsh/pico_ws/install/rotors_swift_interface/share/rotors_swift_interface/environment/path.sh
+/home/utkarsh/pico_ws/install/rotors_swift_interface/share/rotors_swift_interface/environment/path.dsv
+/home/utkarsh/pico_ws/install/rotors_swift_interface/share/rotors_swift_interface/local_setup.bash
+/home/utkarsh/pico_ws/install/rotors_swift_interface/share/rotors_swift_interface/local_setup.sh
+/home/utkarsh/pico_ws/install/rotors_swift_interface/share/rotors_swift_interface/local_setup.zsh
+/home/utkarsh/pico_ws/install/rotors_swift_interface/share/rotors_swift_interface/local_setup.dsv
+/home/utkarsh/pico_ws/install/rotors_swift_interface/share/rotors_swift_interface/package.dsv
+/home/utkarsh/pico_ws/install/rotors_swift_interface/share/ament_index/resource_index/packages/rotors_swift_interface
+/home/utkarsh/pico_ws/install/rotors_swift_interface/share/rotors_swift_interface/cmake/rotors_swift_interfaceConfig.cmake
+/home/utkarsh/pico_ws/install/rotors_swift_interface/share/rotors_swift_interface/cmake/rotors_swift_interfaceConfig-version.cmake
+/home/utkarsh/pico_ws/install/rotors_swift_interface/share/rotors_swift_interface/package.xml

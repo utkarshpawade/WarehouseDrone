@@ -1,0 +1,9 @@
+/home/utkarsh/pico_ws/build/rotors_swift_gazebo/CMakeFiles/uninstall.dir
+/home/utkarsh/pico_ws/build/rotors_swift_gazebo/CMakeFiles/rotors_swift_gazebo_uninstall.dir
+/home/utkarsh/pico_ws/build/rotors_swift_gazebo/CMakeFiles/test.dir
+/home/utkarsh/pico_ws/build/rotors_swift_gazebo/CMakeFiles/edit_cache.dir
+/home/utkarsh/pico_ws/build/rotors_swift_gazebo/CMakeFiles/rebuild_cache.dir
+/home/utkarsh/pico_ws/build/rotors_swift_gazebo/CMakeFiles/list_install_components.dir
+/home/utkarsh/pico_ws/build/rotors_swift_gazebo/CMakeFiles/install.dir
+/home/utkarsh/pico_ws/build/rotors_swift_gazebo/CMakeFiles/install/local.dir
+/home/utkarsh/pico_ws/build/rotors_swift_gazebo/CMakeFiles/install/strip.dir

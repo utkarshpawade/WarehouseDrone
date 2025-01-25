@@ -1,0 +1,3 @@
+/home/utkarsh/pico_ws/build/waypoint_navigation/rosidl_adapter/waypoint_navigation:action/NavToWaypoint.idl
+/home/utkarsh/pico_ws/build/waypoint_navigation/rosidl_adapter/waypoint_navigation:srv/GetWaypoints.idl
+/home/utkarsh/pico_ws/build/waypoint_navigation/rosidl_adapter/waypoint_navigation:srv/GetPath.idl

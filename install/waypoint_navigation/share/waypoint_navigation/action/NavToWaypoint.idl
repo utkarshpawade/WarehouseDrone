@@ -1,0 +1,29 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from waypoint_navigation/action/NavToWaypoint.action
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Pose.idl"
+#include "geometry_msgs/msg/PoseStamped.idl"
+
+module waypoint_navigation {
+  module action {
+    @verbatim (language="comment", text=
+      "Goal Definition" "\n"
+      "The goal is a position to navigate to")
+    struct NavToWaypoint_Goal {
+      geometry_msgs::msg::Pose waypoint;
+    };
+    struct NavToWaypoint_Result {
+      @verbatim (language="comment", text=
+        "Result Definition" "\n"
+        "The result contains the final state after reaching the waypoint")
+      int32 hov_time;
+    };
+    struct NavToWaypoint_Feedback {
+      @verbatim (language="comment", text=
+        "Feedback Definition" "\n"
+        "Feedback could include the current position and status")
+      geometry_msgs::msg::PoseStamped current_waypoint;
+    };
+  };
+};

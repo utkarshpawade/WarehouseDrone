@@ -1,0 +1,8 @@
+setup.py
+swift_msgs/__init__.py
+swift_msgs.egg-info/PKG-INFO
+swift_msgs.egg-info/SOURCES.txt
+swift_msgs.egg-info/dependency_links.txt
+swift_msgs.egg-info/top_level.txt
+swift_msgs/msg/__init__.py
+swift_msgs/msg/_swift_msgs.py

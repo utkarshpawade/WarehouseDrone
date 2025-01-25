@@ -1,0 +1,11 @@
+/home/utkarsh/pico_ws/build/rotors_control/CMakeFiles/uninstall.dir
+/home/utkarsh/pico_ws/build/rotors_control/CMakeFiles/rotors_control_uninstall.dir
+/home/utkarsh/pico_ws/build/rotors_control/CMakeFiles/roll_pitch_yawrate_thrust_controller.dir
+/home/utkarsh/pico_ws/build/rotors_control/CMakeFiles/roll_pitch_yawrate_thrust_controller_node.dir
+/home/utkarsh/pico_ws/build/rotors_control/CMakeFiles/test.dir
+/home/utkarsh/pico_ws/build/rotors_control/CMakeFiles/edit_cache.dir
+/home/utkarsh/pico_ws/build/rotors_control/CMakeFiles/rebuild_cache.dir
+/home/utkarsh/pico_ws/build/rotors_control/CMakeFiles/list_install_components.dir
+/home/utkarsh/pico_ws/build/rotors_control/CMakeFiles/install.dir
+/home/utkarsh/pico_ws/build/rotors_control/CMakeFiles/install/local.dir
+/home/utkarsh/pico_ws/build/rotors_control/CMakeFiles/install/strip.dir

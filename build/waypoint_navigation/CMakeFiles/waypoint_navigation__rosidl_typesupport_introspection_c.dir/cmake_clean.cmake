@@ -1,0 +1,21 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/waypoint_navigation__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/waypoint_navigation/action/detail/nav_to_waypoint__type_support.c.o"
+  "CMakeFiles/waypoint_navigation__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/waypoint_navigation/action/detail/nav_to_waypoint__type_support.c.o.d"
+  "CMakeFiles/waypoint_navigation__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/waypoint_navigation/srv/detail/get_path__type_support.c.o"
+  "CMakeFiles/waypoint_navigation__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/waypoint_navigation/srv/detail/get_path__type_support.c.o.d"
+  "CMakeFiles/waypoint_navigation__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/waypoint_navigation/srv/detail/get_waypoints__type_support.c.o"
+  "CMakeFiles/waypoint_navigation__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/waypoint_navigation/srv/detail/get_waypoints__type_support.c.o.d"
+  "libwaypoint_navigation__rosidl_typesupport_introspection_c.pdb"
+  "libwaypoint_navigation__rosidl_typesupport_introspection_c.so"
+  "rosidl_typesupport_introspection_c/waypoint_navigation/action/detail/nav_to_waypoint__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/waypoint_navigation/action/detail/nav_to_waypoint__type_support.c"
+  "rosidl_typesupport_introspection_c/waypoint_navigation/srv/detail/get_path__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/waypoint_navigation/srv/detail/get_path__type_support.c"
+  "rosidl_typesupport_introspection_c/waypoint_navigation/srv/detail/get_waypoints__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/waypoint_navigation/srv/detail/get_waypoints__type_support.c"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/waypoint_navigation__rosidl_typesupport_introspection_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

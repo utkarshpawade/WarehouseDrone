@@ -1,0 +1,8 @@
+source;share/mav_comm/hook/cmake_prefix_path.ps1
+source;share/mav_comm/hook/cmake_prefix_path.dsv
+source;share/mav_comm/hook/cmake_prefix_path.sh
+source;share/mav_comm/local_setup.bash
+source;share/mav_comm/local_setup.dsv
+source;share/mav_comm/local_setup.ps1
+source;share/mav_comm/local_setup.sh
+source;share/mav_comm/local_setup.zsh

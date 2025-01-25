@@ -1,0 +1,25 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from mav_system_msgs/msg/CpuInfo.msg
+// generated code does not contain a copyright notice
+
+#include "mav_system_msgs/msg/ProcessInfo.idl"
+#include "std_msgs/msg/Header.idl"
+
+module mav_system_msgs {
+  module msg {
+    @verbatim (language="comment", text=
+      "Miscellaneous information about CPU status." "\n"
+      "Written by Marco Tranzatto (see: https://github.com/ethz-asl/mav_eurathlon/blob/master/mav_eurathlon_msgs/msg/CpuInfo.msg)")
+    struct CpuInfo {
+      std_msgs::msg::Header header;
+
+      @verbatim (language="comment", text=
+        "Current system-wide CPU utilization as a percentage, per CPU.")
+      sequence<float> cpu_percent;
+
+      @verbatim (language="comment", text=
+        "Info about heaviest running processes.")
+      sequence<mav_system_msgs::msg::ProcessInfo> heaviest_processes;
+    };
+  };
+};

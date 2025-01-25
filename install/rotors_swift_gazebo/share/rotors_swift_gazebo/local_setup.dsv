@@ -1,0 +1,2 @@
+source;share/rotors_swift_gazebo/environment/ament_prefix_path.sh
+source;share/rotors_swift_gazebo/environment/path.sh

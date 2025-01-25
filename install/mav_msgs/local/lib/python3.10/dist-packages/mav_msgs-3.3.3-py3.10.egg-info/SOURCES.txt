@@ -1,0 +1,15 @@
+setup.py
+mav_msgs/__init__.py
+mav_msgs.egg-info/PKG-INFO
+mav_msgs.egg-info/SOURCES.txt
+mav_msgs.egg-info/dependency_links.txt
+mav_msgs.egg-info/top_level.txt
+mav_msgs/msg/__init__.py
+mav_msgs/msg/_actuators.py
+mav_msgs/msg/_attitude_thrust.py
+mav_msgs/msg/_filtered_sensor_data.py
+mav_msgs/msg/_gps_waypoint.py
+mav_msgs/msg/_rate_thrust.py
+mav_msgs/msg/_roll_pitch_yawrate_thrust.py
+mav_msgs/msg/_status.py
+mav_msgs/msg/_torque_thrust.py

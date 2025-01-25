@@ -1,0 +1,28 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from swift_msgs/msg/SwiftMsgs.msg
+// generated code does not contain a copyright notice
+
+
+module swift_msgs {
+  module msg {
+    struct SwiftMsgs {
+      int64 rc_roll;
+
+      int64 rc_pitch;
+
+      int64 rc_yaw;
+
+      int64 rc_throttle;
+
+      int64 rc_aux1;
+
+      int64 rc_aux2;
+
+      int64 rc_aux3;
+
+      int64 rc_aux4;
+
+      int64 drone_index;
+    };
+  };
+};

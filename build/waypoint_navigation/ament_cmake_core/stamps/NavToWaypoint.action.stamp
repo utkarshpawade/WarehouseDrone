@@ -1,0 +1,16 @@
+# Goal Definition
+# The goal is a position to navigate to
+geometry_msgs/Pose waypoint
+
+---
+
+# Result Definition
+# The result contains the final state after reaching the waypoint
+int32 hov_time
+
+---
+
+# Feedback Definition
+# Feedback could include the current position and status
+geometry_msgs/PoseStamped current_waypoint
+# float32 distance_remaining

@@ -1,0 +1,4 @@
+source;share/mav_comm/local_setup.bash
+source;share/mav_comm/local_setup.dsv
+source;share/mav_comm/local_setup.sh
+source;share/mav_comm/local_setup.zsh

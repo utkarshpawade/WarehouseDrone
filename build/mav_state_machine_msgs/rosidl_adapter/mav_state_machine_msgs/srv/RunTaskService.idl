@@ -1,0 +1,24 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from mav_state_machine_msgs/srv/RunTaskService.srv
+// generated code does not contain a copyright notice
+
+
+module mav_state_machine_msgs {
+  module srv {
+    @verbatim (language="comment", text=
+      "request fields" "\n"
+      " Name of task ")
+    struct RunTaskService_Request {
+      string task_name;
+
+      @verbatim (language="comment", text=
+        "True to start task, False to stop/abort")
+      boolean start;
+    };
+    @verbatim (language="comment", text=
+      "True on success, false on failure to start task")
+    struct RunTaskService_Response {
+      boolean success;
+    };
+  };
+};

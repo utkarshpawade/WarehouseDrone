@@ -1,0 +1,29 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from mav_system_msgs/msg/ProcessInfo.msg
+// generated code does not contain a copyright notice
+
+
+module mav_system_msgs {
+  module msg {
+    @verbatim (language="comment", text=
+      "Miscellaneous information about process status." "\n"
+      "Written by Marco Tranzatto (see: https://github.com/ethz-asl/mav_eurathlon/blob/master/mav_eurathlon_msgs/msg/ProcessInfo.msg)")
+    struct ProcessInfo {
+      @verbatim (language="comment", text=
+        "Process PID")
+      uint32 pid;
+
+      @verbatim (language="comment", text=
+        "Process name")
+      string name;
+
+      @verbatim (language="comment", text=
+        "Name of the user that owns the process")
+      string username;
+
+      @verbatim (language="comment", text=
+        "Process CPU utilization as a percentage")
+      float cpu_percent;
+    };
+  };
+};

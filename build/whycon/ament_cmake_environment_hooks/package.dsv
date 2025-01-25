@@ -1,0 +1,4 @@
+source;share/whycon/local_setup.bash
+source;share/whycon/local_setup.dsv
+source;share/whycon/local_setup.sh
+source;share/whycon/local_setup.zsh

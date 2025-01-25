@@ -1,0 +1,10 @@
+# Request part
+geometry_msgs/Pose start_point
+geometry_msgs/Pose end_point
+
+---
+# Response part
+# List of Pose points representing the path
+geometry_msgs/PoseArray path
+bool is_on_first_path
+

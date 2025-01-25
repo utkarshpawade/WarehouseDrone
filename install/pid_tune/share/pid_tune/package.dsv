@@ -1,0 +1,8 @@
+source;share/pid_tune/hook/cmake_prefix_path.ps1
+source;share/pid_tune/hook/cmake_prefix_path.dsv
+source;share/pid_tune/hook/cmake_prefix_path.sh
+source;share/pid_tune/local_setup.bash
+source;share/pid_tune/local_setup.dsv
+source;share/pid_tune/local_setup.ps1
+source;share/pid_tune/local_setup.sh
+source;share/pid_tune/local_setup.zsh

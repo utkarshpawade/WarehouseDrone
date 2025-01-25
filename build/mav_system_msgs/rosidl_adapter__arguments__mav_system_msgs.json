@@ -1,0 +1,7 @@
+{
+  "package_name": "mav_system_msgs",
+  "non_idl_tuples": [
+    "/home/utkarsh/pico_ws/src/mav_comm/mav_system_msgs:msg/CpuInfo.msg",
+    "/home/utkarsh/pico_ws/src/mav_comm/mav_system_msgs:msg/ProcessInfo.msg"
+  ]
+}
