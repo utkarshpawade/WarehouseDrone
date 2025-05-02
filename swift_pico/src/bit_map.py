@@ -43,6 +43,7 @@ class ImageSaver(Node):
             marker_dict = {}
             all_marker_corners = []
             for marker_corners, marker_id in zip(corners, ids):
+                marker_corners, marker_id in zip(corners, ids, map):
                 marker_corners = marker_corners.reshape((4, 2))
                 for corner in marker_corners:
                     marker_dict[(float(corner[0]), float(corner[1]))] = int(marker_id[0])
